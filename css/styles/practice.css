@@ -1,0 +1,33 @@
+h1 {
+    color: green;
+}
+
+h1 a {
+    color: red;
+}
+
+h2 a:hover {
+    color: orange;
+}
+
+.mate-in-one {
+    box-shadow: 10px 5px gray;
+}
+
+.chessboard {
+    border-radius: 30px;
+}
+
+.mate-in-two {
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+
+.chessboard:hover {
+    box-shadow: 30px 30px 30px 30px orange;
+}
+
+ul li:hover {
+    list-style: circle;
+    color: orange;
+}
